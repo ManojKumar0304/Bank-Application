@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+img{
+	width: 100%;
+	height: 100vh;
+	background-size:cover ;
+	background-position: center;
+}
+.ridge{
+	border-style: ridge;border-width: 10px;background-color: yellow;border-radius: 20px;
+}
+h3{
+	background-color: lightblue;
+	color:red;
+}
+.a{
+	width: 270px;
+	height: 100%;
+	margin:15px;
+	padding: 10px;
+	border: 2px solid yellowgreen;
+	background-color: burlywood;
+	border-radius: 2%;
+	filter: drop-shadow(0.30rem 0.4rem #000000);
+}
+.r{
+	background-image: url(bank.jpg);
+}
